@@ -1,7 +1,7 @@
 # File Management System
 
 ## 📌 Description
-A Python-based file management system to create, read, update, and delete files.
+A Python's OOPs based file management system to create, read, update, and delete files.
 
 ## 🚀 Features
 - Create new files
@@ -11,6 +11,7 @@ A Python-based file management system to create, read, update, and delete files.
 
 ## 🛠️ Technologies Used
 - Python
+- OOPs
 
 ## ▶️ How to Run
 python main.py
